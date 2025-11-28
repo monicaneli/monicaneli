@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=monicaneli&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaneli&hide=html&layout=compact&theme=default"  alt="Github Stats"  />
 
 ### Olá, meu nome é Mônica! 👋
 
@@ -59,11 +59,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-        <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaneli&hide=html&layout=compact&theme=default"
-        alt="Github Stats"
-      />
+      <img align='left' src="https://github-readme-stats.vercel.app/api?username=monicaneli&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"/>
     </td>
     <td>
       <br />
