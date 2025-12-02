@@ -76,5 +76,4 @@ Here are some ideas to get you started:
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelimonica26)](https://www.linkedin.com/in/nelimonica26)
-[![Gmail Badge](https://img.shields.io/badge/-nelimonica26@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nelimonica26@gmail.com)](mailto:nelimonica26@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/monicaneli?label=follow&style=social)](https://github.com/monicaneli)
