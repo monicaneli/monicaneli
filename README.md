@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Olá, meu nome é Mônica! 👋
 
-<p>Entusiasta de programação, dados e IA, unindo tecnologia e estratégia para ajudar empresas a tomar decisões mais inteligentes, seguras e sustentáveis.</p>
+<p>Cientista de Dados com base sólida em programação, análise e modelagem, focada em resolver problemas reais por meio de dados, métricas e soluções escaláveis.</p>
 
 ### Competências
 
